@@ -5,3 +5,4 @@
 - print_alphabt.py: bucle for con range(), ord() y chr() para imprimir el alfabeto sin q ni e, con un solo print.
 - print_hexa.py: bucle for con range() y .format() para imprimir del 0 al 98 en decimal y hexadecimal.
 - print_comb2.py: bucle for con dos print y .format() para imprimir del 00 al 99 con ceros a la izquierda, separados por coma.
+- print_comb3.py: bucles anidados con range(i + 1, 10) para imprimir combinaciones únicas de dos dígitos diferentes.
