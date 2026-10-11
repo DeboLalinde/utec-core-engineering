@@ -4,4 +4,4 @@ for code in range(ord("a"), ord("z") + 1):
     letter = chr(code)
     if letter != "e" and letter != "q":
         letters = letters + letter
-print("{}".format(letters))
+print("{}".format(letters), end="")
