@@ -9,3 +9,5 @@ Tarea 2: print_last_digit: Función que imprime y devuelve el último dígito de
 Tarea 3: pow: Función que devuelve a elevado a la potencia b, multiplicando con un bucle for sin usar el operador **.
 
 Tarea 4: simple_add y test_import: Archivos que muestran la diferencia entre ejecutar e importar un módulo, usando if __name__ == "__main__" para evitar que el print se ejecute al importar.
+
+Tarea 5: add: Programa que importa la función add desde add_0.py e imprime 1 + 2 = 3, protegido con if __name__ == "__main__".
