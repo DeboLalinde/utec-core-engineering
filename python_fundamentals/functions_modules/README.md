@@ -5,3 +5,5 @@ Tarea 0: islower: Función que devuelve True si un carácter es una letra minús
 Tarea 1: uppercase: Función que imprime un texto convirtiendo las minúsculas en mayúsculas, usando if, ord() y chr().
 
 Tarea 2: print_last_digit: Función que imprime y devuelve el último dígito de un número, usando abs() y el operador %.
+
+Tarea 3: pow: Función que devuelve a elevado a la potencia b, multiplicando con un bucle for sin usar el operador **.
