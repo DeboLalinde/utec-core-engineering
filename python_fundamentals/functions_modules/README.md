@@ -7,3 +7,5 @@ Tarea 1: uppercase: Función que imprime un texto convirtiendo las minúsculas e
 Tarea 2: print_last_digit: Función que imprime y devuelve el último dígito de un número, usando abs() y el operador %.
 
 Tarea 3: pow: Función que devuelve a elevado a la potencia b, multiplicando con un bucle for sin usar el operador **.
+
+Tarea 4: simple_add y test_import: Archivos que muestran la diferencia entre ejecutar e importar un módulo, usando if __name__ == "__main__" para evitar que el print se ejecute al importar.
