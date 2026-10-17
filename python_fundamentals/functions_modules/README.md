@@ -13,3 +13,5 @@ Tarea 4: simple_add y test_import: Archivos que muestran la diferencia entre eje
 Tarea 5: add: Programa que importa la función add desde add_0.py e imprime 1 + 2 = 3, protegido con if __name__ == "__main__".
 
 Tarea 6: calculation: Programa que importa add, sub, mul y div desde calculator_1.py e imprime las cuatro operaciones con a = 10 y b = 5.O
+
+Tarea 7: variable_load: Programa que importa la variable a desde variable_load_5.py e imprime su valor.O
