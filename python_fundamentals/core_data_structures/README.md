@@ -11,3 +11,5 @@ Tarea 3: `print_matrix_integer.py` imprime una matriz de enteros, una fila por l
 Tarea 4: `add_tuple.py` suma dos tuplas posicion por posicion, completando con 0 los valores que faltan.
 
 Tarea 5: `common_elements.py` devuelve un conjunto con los elementos comunes a dos conjuntos.
+
+Tarea 6: `update_dictionary.py` reemplaza o agrega un par clave/valor en un diccionario.
