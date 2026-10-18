@@ -13,3 +13,5 @@ Tarea 4: `add_tuple.py` suma dos tuplas posicion por posicion, completando con 0
 Tarea 5: `common_elements.py` devuelve un conjunto con los elementos comunes a dos conjuntos.
 
 Tarea 6: `update_dictionary.py` reemplaza o agrega un par clave/valor en un diccionario.
+
+Tarea 7: `best_score.py` devuelve la clave con el valor entero mas grande, o None si el diccionario es None o esta vacio.
