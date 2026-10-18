@@ -9,3 +9,5 @@ Tarea 2: `replace_in_list.py` reemplaza el elemento en la posicion idx, o devuel
 Tarea 3: `print_matrix_integer.py` imprime una matriz de enteros, una fila por linea con los valores separados por un espacio.
 
 Tarea 4: `add_tuple.py` suma dos tuplas posicion por posicion, completando con 0 los valores que faltan.
+
+Tarea 5: `common_elements.py` devuelve un conjunto con los elementos comunes a dos conjuntos.
