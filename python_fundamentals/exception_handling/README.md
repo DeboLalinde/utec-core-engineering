@@ -4,4 +4,5 @@
 - Tarea 0: `safe_print_list.py` imprime hasta x elementos de una lista y devuelve cuantos imprimio.
 - Tarea 1: `safe_print_integer.py` imprime un valor si es entero.
 - Tarea 2: `safe_print_list_integers.py` imprime solo los enteros de los primeros x elementos.
-- Tarea 3: `safe_print_division.py` divide dos números y siempre muestra el resultado con finally.
+- Tarea 3: `safe_print_division.py` divide dos numeros y siempre muestra el resultado con finally.
+- Tarea 4: `raise_exception.py` lanza un TypeError.
