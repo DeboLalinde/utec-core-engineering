@@ -4,4 +4,3 @@
 
 class Square:
     """Representa un cuadrado."""
-    
