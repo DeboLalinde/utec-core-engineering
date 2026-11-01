@@ -17,3 +17,5 @@ Tarea 6: Método my_print() que dibuja el cuadrado con # (5-square.py).
 Tarea 7: Atributo position y método `__str__` para imprimir el cuadrado (6-square.py).
 
 Tarea 8: Clase Rectangle con width y height validados (1-rectangle.py).
+
+Tarea 9: Métodos area() y perimeter() en la clase Rectangle (2-rectangle.py).
