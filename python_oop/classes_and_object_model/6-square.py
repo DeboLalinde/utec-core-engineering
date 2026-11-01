@@ -52,7 +52,7 @@ class Square:
         Raises:
             TypeError: Si value no es una tupla de 2 enteros positivos.
         """
-        message = "position must be a tuple of 2 positive integer"
+        message = "position must be a tuple of 2 positive integers"
         if type(value) is not tuple or len(value) != 2:
             raise TypeError(message)
         for number in value:
