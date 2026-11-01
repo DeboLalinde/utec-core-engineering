@@ -28,4 +28,3 @@ class Square:
             El área del cuadrado.
         """
         return self.__size ** 2
-        
