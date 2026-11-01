@@ -1,0 +1,4 @@
+# Python – Herencia y polimorfismo
+
+- Tarea 0: Tutorial y cuestionario sobre herencia y polimorfismo con las clases Animal, Dog y Cat.
+- Tarea 1: Clase BaseGeometry con area() sin implementar e integer_validator() para validar enteros positivos.
