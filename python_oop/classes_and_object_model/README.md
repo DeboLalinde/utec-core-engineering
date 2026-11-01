@@ -7,3 +7,5 @@ Tarea 1: Clase Square vacía (0-square.py).
 Tarea 2: Clase Square con atributo privado size (1-square.py).
 
 Tarea 3: Validación de tipo y valor de size (2-square.py).
+
+Tarea 4: Método area() que devuelve el área del cuadrado (3-square.py).
