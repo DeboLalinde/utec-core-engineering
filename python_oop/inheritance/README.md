@@ -5,3 +5,4 @@
 - Tarea 2: Clase Rectangle que hereda de BaseGeometry y valida width y height como enteros positivos privados.
 - Tarea 3: Rectangle con area() implementado y representación [Rectangle] width/height.
 - Tarea 4: Clase Square que hereda de Rectangle con un solo parámetro size validado.
+- Tarea 5: Square con su propia representación [Square] width/height.
